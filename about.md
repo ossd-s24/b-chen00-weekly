@@ -4,9 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+Hello, my name is Brandon and I am a senior at NYU with a major in computer science. I want to work more with open source programming and hope to continue contributing to open source software far into the future.
