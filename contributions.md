@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 18   | https://www.openstreetmap.org/changeset/147629111    | OpenStreet Map Feature    |   Getting familiarized with OpenStreet Map and added my house address.    |
+| Feb 18   | [https://www.openstreetmap.org/changeset/147629111](https://www.openstreetmap.org/changeset/147629111)    | OpenStreet Map Feature    |   Getting familiarized with OpenStreet Map and added my house address.    |
 |     |     |     |      |
 |     |     |     |      |
