@@ -10,9 +10,9 @@ Type of the contribution should be "Wikipedia edit", "OpenStreet Map feature", "
 
 The description should include a brief summary of what you did.
 
-The link should bring us to a public page that shows your contribution. 
+The link should bring us to a public page that shows your contribution.
 
-Replace the first row with your own contribution. 
+Replace the first row with your own contribution.
 
 -->
 
@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 18   | https://www.openstreetmap.org/changeset/147629111    | OpenStreet Map Feature    |   Getting familiarized with OpenStreet Map and added my house address.    |
 |     |     |     |      |
 |     |     |     |      |
