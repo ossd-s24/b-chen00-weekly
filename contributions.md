@@ -24,6 +24,7 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Feb 18   | [OpenStreetMap](https://www.openstreetmap.org/changeset/147629111)    | OpenStreet Map Feature    |   Getting familiarized with OpenStreet Map and added my house address.    |
 | Feb 25    | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Ninja_Kamui&diff=prev&oldid=1210227975)    | Wikipedia edit    | Added director, screenwriter, storyboarder, and chief animator to recent episode of Ninja Kamui.     |
-| Mar 21   | [Spicetify](https://github.com/spicetify/spicetify-cli/pull/2915)    | Spicetify    | Created CONTRIBUTING.md pull request, applied feedback from maintainers, and merged.     |
+| Mar 21   | [Spicetify](https://github.com/spicetify/spicetify-cli/pull/2915)    | Spicetify Documentation   | Created CONTRIBUTING.md pull request, applied feedback from maintainers, and merged.     |
 | Apr 3  | [Wikipedia](https://en.wikipedia.org/w/index.php?title=James_Boggs_(activist)&diff=prev&oldid=1217101838)    | Wikipedia edit   |   Added potentially helpful Wikilink to Chrysler where James Boggs worked at and might've influenced his papers on cybernetics.    |
 | Apr 3  | [OpenStreetMap](https://www.openstreetmap.org/changeset/149543778)    | OpenStreet Map Feature    |   Added correct numbers of lanes on the secondary road along my bike route.    |
+| Apr 3   | [Spicetify](https://github.com/spicetify/spicetify-marketplace/issues/724)    | Spicetify Potential Bug Report   | Tabs in marketplace settings isn't functional.     |
