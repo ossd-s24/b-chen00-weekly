@@ -28,3 +28,5 @@ Replace the first row with your own contribution.
 | Apr 3  | [Wikipedia](https://en.wikipedia.org/w/index.php?title=James_Boggs_(activist)&diff=prev&oldid=1217101838)    | Wikipedia edit   |   Added potentially helpful Wikilink to Chrysler where James Boggs worked at and might've influenced his papers on cybernetics.    |
 | Apr 3  | [OpenStreetMap](https://www.openstreetmap.org/changeset/149543778)    | OpenStreet Map Feature    |   Added correct numbers of lanes on the secondary road along my bike route.    |
 | Apr 3   | [Spicetify](https://github.com/spicetify/spicetify-marketplace/issues/724)    | Spicetify Potential Bug Report   | Tabs in marketplace settings isn't functional.     |
+| Apr 5   | [Class Website GitHub](https://github.com/joannakl/ossd/issues/110)    | Class Website Suggestion/Enhancement   | Suggested iNaturalist as a potential project to contribute to.     |
+| Apr 6   | [OpenStreetMap](https://www.openstreetmap.org/changeset/149673798)    | OpenStreet Map Feature   | Added 64 trees I saw in the sidewalk on my 20 minute commute to the train station.    |
