@@ -30,3 +30,4 @@ Replace the first row with your own contribution.
 | Apr 3   | [Spicetify](https://github.com/spicetify/spicetify-marketplace/issues/724)    | Spicetify Potential Bug Report   | Tabs in marketplace settings isn't functional.     |
 | Apr 5   | [Class Website GitHub](https://github.com/joannakl/ossd/issues/110)    | Class Website Suggestion/Enhancement   | Suggested iNaturalist as a potential project to contribute to.     |
 | Apr 6   | [OpenStreetMap](https://www.openstreetmap.org/changeset/149673798)    | OpenStreet Map Feature   | Added 64 trees I saw in the sidewalk on my 20 minute commute to the train station.    |
+| Apr 7    | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Dave_Thomas_(businessman)&diff=prev&oldid=1217770925)    | Wikipedia Citation    | Added reference stating Dave Thomas, founder of Wendy's, returned to Fort Wayne and the Hobby House.     |
