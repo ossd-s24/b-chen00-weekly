@@ -36,3 +36,4 @@ Replace the first row with your own contribution.
 | Apr 10  | [OpenStreetMap](https://www.openstreetmap.org/changeset/149842583)    | OpenStreet Map Feature    |   Added the Popeyes, a deli, two convenience stores, Chase bank, Mexican restaurant, Burger place, and supermarket near me. Added missing address for the pizzeria as well.    |
 | Apr 11  | [OpenStreetMap](https://www.openstreetmap.org/changeset/149883436)    | OpenStreet Map Feature    |   Added 6 benches and two chess table to the front of my local park. Added the missing volleyball area in the back.    |
 | Apr 15  | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Design&diff=prev&oldid=1219156881)    | Wikipedia edit   |   Fixed one typo and improved readability of the design page.    |
+| Apr 16  | [OpenStreetMap](https://www.openstreetmap.org/changeset/150108695#map=19/40.63089/-74.00999)    | OpenStreet Map Feature   |   Added a nearby restaurant.    |
