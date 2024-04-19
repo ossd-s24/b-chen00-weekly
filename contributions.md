@@ -37,3 +37,5 @@ Replace the first row with your own contribution.
 | Apr 11  | [OpenStreetMap](https://www.openstreetmap.org/changeset/149883436)    | OpenStreet Map Feature    |   Added 6 benches and two chess table to the front of my local park. Added the missing volleyball area in the back.    |
 | Apr 15  | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Design&diff=prev&oldid=1219156881)    | Wikipedia edit   |   Fixed one typo and improved readability of the design page.    |
 | Apr 16  | [OpenStreetMap](https://www.openstreetmap.org/changeset/150108695#map=19/40.63089/-74.00999)    | OpenStreet Map Feature   |   Added a nearby restaurant.    |
+| Apr 18    | [Wikipedia](https://en.wikipedia.org/w/index.php?title=PHP&diff=prev&oldid=1219648389)    | Wikipedia Citation    | Added citation for PHP page.     |
+| Apr 18    | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Languages_of_the_United_States&diff=prev&oldid=1219651884)    | Wikipedia Citation    | Added citation for Languages of the United States page.     |
