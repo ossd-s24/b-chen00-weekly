@@ -40,3 +40,5 @@ Replace the first row with your own contribution.
 | Apr 18    | [Wikipedia](https://en.wikipedia.org/w/index.php?title=PHP&diff=prev&oldid=1219648389)    | Wikipedia Citation    | Added citation for PHP page.     |
 | Apr 18    | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Languages_of_the_United_States&diff=prev&oldid=1219651884)    | Wikipedia Citation    | Added citation for Languages of the United States page.     |
 | Apr 19    | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Computing&diff=prev&oldid=1219829456)    | Wikipedia Citation    | Added citation for Computing page.     |
+| Apr 21  | [OpenStreetMap](https://www.openstreetmap.org/changeset/150322575)    | OpenStreet Map Feature   |   Added lane count to 10 roads.    |
+| Apr 21  | [OpenStreetMap](https://www.openstreetmap.org/changeset/150322660)    | OpenStreet Map Feature   |   Replaced outdated information about a restaurant.    |
