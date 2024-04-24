@@ -43,4 +43,4 @@ Replace the first row with your own contribution.
 | Apr 21  | [OpenStreetMap](https://www.openstreetmap.org/changeset/150322575)    | OpenStreet Map Feature   |   Added lane count to 10 roads.    |
 | Apr 21  | [OpenStreetMap](https://www.openstreetmap.org/changeset/150322660)    | OpenStreet Map Feature   |   Replaced outdated information about a restaurant.    |
 | Apr 23  | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Jin_dynasty_(1115%E2%80%931234)&diff=prev&oldid=1220481401)    | Wikipedia edit   |   Improved readability of the Jin dynasty (1115–1234) page or copy editing.    |
-| Apr 123    | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Graphic_novel&diff=prev&oldid=1220494258)    | Wikipedia Citation    | Added citation for the cover of a graphic novel.     |
+| Apr 23    | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Graphic_novel&diff=prev&oldid=1220494258)    | Wikipedia Citation    | Added citation for the cover of a graphic novel.     |
