@@ -47,3 +47,4 @@ Replace the first row with your own contribution.
 | Apr 25    | [Wikipedia](https://en.wikipedia.org/w/index.php?title=White_bass&diff=prev&oldid=1220822753)    | Wikipedia Citation    | Added citation for white bass in Manitoba.     |
 | Apr 28  | [OpenStreetMap](https://www.openstreetmap.org/changeset/150642897#map=15/40.6363/-74.0044)    | OpenStreet Map Feature   |   Added lane count and surface type to several roads in Brooklyn.    |
 | May 2  | [OpenStreetMap](https://www.openstreetmap.org/changeset/150817547)    | OpenStreet Map Feature   |   Added more missing lane count and surface type.    |
+| May 7  | [OpenStreetMap](https://www.openstreetmap.org/changeset/151031242#map=14/40.6062/-73.9839)    | OpenStreet Map Feature   |   Added details to some roads and traffic signals. Upgraded tag of some bus routes.    |
